@@ -1,0 +1,11 @@
+---
+title: "New Post"
+author: "James Packman"
+date: "2025-02-05"
+categories: [code, analysis]
+image: "graph1.jpg"
+---
+
+This is a power curve. It's not very good, but here it is.
+
+![Power Curve](graph1.jpg)
